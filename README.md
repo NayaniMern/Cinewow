@@ -80,7 +80,7 @@ Improved user experience with intuitive navigation
 📬 Contact
 LinkedIn: linkedin.com/in/sivatri-nayani
 
-GitHub: https://nayanimern.github.io/Cinewow/
+GitHub: https://github.com/NayaniMern
 
 Email: sivatrinayani.v@gmail.com
 
